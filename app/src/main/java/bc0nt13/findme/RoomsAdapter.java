@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import java.util.List;
 import java.util.ArrayList;
 
-import bc0nt13.findme.Resource.RoomApi;
+import bc0nt13.findme.resource.RoomApi;
 import retrofit.Callback;
 import retrofit.RestAdapter;
 import retrofit.RetrofitError;

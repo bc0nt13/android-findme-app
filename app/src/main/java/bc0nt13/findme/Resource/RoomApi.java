@@ -1,4 +1,4 @@
-package bc0nt13.findme.Resource;
+package bc0nt13.findme.resource;
 
 import java.util.List;
 
